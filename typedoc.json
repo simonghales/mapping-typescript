@@ -1,0 +1,11 @@
+{
+    "name": "React Typescript Boilerplate",
+    "mode": "file",
+    "theme": "minimal",
+    "includeDeclarations": false,
+    "ignoreCompilerErrors": true,
+    "out": "../docs",
+    "exclude": "**/node_modules/**/*.*",
+    "excludeExternals": true,
+    "hideGenerator": true
+}

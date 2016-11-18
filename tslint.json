@@ -1,0 +1,18 @@
+{
+    "extends": "tslint:latest",
+    "rules": {
+        "interface-name": [true, "always-prefix"],
+        "max-line-length": [
+            true,
+            140
+        ],
+        "ordered-imports": false,
+        "variable-name": [
+            true,
+            "ban-keywords",
+            "check-format",
+            "allow-leading-underscore",
+            "allow-pascal-case"
+        ]
+    }
+}
